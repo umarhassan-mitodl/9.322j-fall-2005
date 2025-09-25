@@ -29,6 +29,7 @@
     "website": "9-322j-genetic-neurobiology-fall-2005"
   },
   "course_title": "Genetic Neurobiology",
+  "hide_download": true,
   "course_description": "This course deals with the specific functions of neurons, the interactions of neurons in development, and the organization of neuronal ensembles to produce behavior. Topics covered include the analysis of mutations, and molecular analysis of the genes required for nervous system function. In particular, this course focuses on research work done with nematodes, fruit flies, mice, and humans.\n",
   "department_numbers": [
     "9",
@@ -40,6 +41,7 @@
     "content": "9660393a-cd11-f54b-df6c-2562b93fe2c9",
     "website": "9-322j-genetic-neurobiology-fall-2005"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Written Assignments",
     "Presentation Assignments"
