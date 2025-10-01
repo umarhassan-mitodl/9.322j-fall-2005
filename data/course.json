@@ -41,7 +41,7 @@
     "content": "9660393a-cd11-f54b-df6c-2562b93fe2c9",
     "website": "9-322j-genetic-neurobiology-fall-2005"
   },
-  "hide_download_original": null,
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments",
     "Presentation Assignments"
